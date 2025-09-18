@@ -74,7 +74,7 @@ main .img-section .content p{
     font-size: 25px;
 }
 main .img-section .content a{
-    width: 16%;
+    max-width: 17%;
     font-size: 20px;
     padding: 10px;
     background-color: #D9D9D9;
