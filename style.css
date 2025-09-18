@@ -283,3 +283,8 @@ footer{
 footer h2{
     margin-top: 40px;
 }
+@media (max-width:650px) {
+    main .img-section .content a{
+        width: 19%;
+    }
+}
