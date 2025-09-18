@@ -38,10 +38,14 @@ header .navbar{
     text-decoration: none;
     color: white
 }
-.navbar .navbt span{
+.navbar .navbt .loginbtn{
 padding: 10px 20px;
 background-color: #7A64F6;
 border-radius: 8px;
+}
+.navbar .navbt .loginbtn:hover{
+    background-color: white;
+    color: black;
 }
 main .img-section{
 margin-top: 70px;
@@ -78,7 +82,7 @@ main .img-section .content a{
     height: 44px;
     font-size: 20px;
     padding: 10px;
-    background-color: #D9D9D9;
+    background-color:white;
     border-radius: 10px;
     margin-top:50px ;
     text-decoration: none;
